@@ -13,6 +13,9 @@ hola mundo aqui de nuevo con git
 
 a <- c(1,2,3)
 a
+b <- c(1,4,5)
+b
+3+3
 @
 
 
